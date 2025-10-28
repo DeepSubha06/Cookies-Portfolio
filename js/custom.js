@@ -7,7 +7,7 @@ const swiper = new Swiper(".swiper", {
     forceToAxis: true,
   },
     autoplay: {
-    delay: 2000,
+    delay: 2500,
   },
   
 
@@ -59,4 +59,5 @@ const swiperParams = {
     init() {},
   },
 };
+
 
